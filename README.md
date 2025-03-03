@@ -14,8 +14,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/yrsel ">                 
-          <img src="https://avatars.githubusercontent.com/yrsel" width="160" />            
+      <a href="https://github.com/devfeijoa ">                 
+          <img src="https://avatars.githubusercontent.com/devfeijoa" width="160" />            
       </a>
     </td>
     <td>
